@@ -1,0 +1,27 @@
+body
+{
+  min-height: 100%;
+  min-width: 100%;
+  background-image: url("blehone.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  background-repeat: no-repeat;
+}
+
+/*.btn:hover
+{
+	background-color: transparent;
+	background: transparent;
+	border:2.5px solid white;
+}
+*/
+.navbar {
+   background-color: transparent;
+   background: transparent;
+   border-color: transparent;
+   font-size: 20px;
+}
+
+.navbar li { color: white }
