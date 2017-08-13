@@ -5,7 +5,7 @@ html,body{
 }
 
 .body1{
-  background: url("bg-4.jpg");
+  background: url("/bg-4.jpg");
   background-size: cover;
   transition: background 3.0s;
   -webkit-transition : background 3.0s;
@@ -13,7 +13,7 @@ html,body{
   background-position: center;
 }
 .body2{
-  background: url("bg-1.jpg");
+  background: url("/bg-1.jpg");
   background-size: cover;
   transition : background 3.0s;
   -webkit-transition : background 3.0s;
@@ -21,7 +21,7 @@ html,body{
   background-position: center;
 }
 .body3{
-  background: url("bg-3.jpg");
+  background: url("/bg-3.jpg");
   background-size: cover;
   transition : background 3.0s;
   -webkit-transition : background 3.0s;
